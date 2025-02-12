@@ -14,6 +14,7 @@ I'm a MERN Full Stack Developer from Coimbatore, passionate about building user-
 - **Frontend Frameworks:** React, HTML, CSS
 - **Backend Frameworks:** Node.js
 - **Databases:** MongoDB
+- **Ui & Ux:** Figma, Canva
 - **Tools:** Git, Visual Studio Code
 - **Other:** Firebase, Express.js
 
